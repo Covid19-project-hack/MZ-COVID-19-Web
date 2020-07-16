@@ -2,15 +2,15 @@
     "data": [
         {
             "sno": "1",
-            "name": " Jawaharlal Nehru Institute of Med Sciences, Imphal East, Manipur",
+            "name": "Zoram Medical College, Falkawn",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "2",
-            "name": " Regional Institute of Medical Sciences, Imphal ",
+            "name": "Civil Hospital, Lunglei",
             "type": "Government",
-            "test_type": "RT-PCR"
+            "test_type": "True NAT"
         }
     ]
 }
